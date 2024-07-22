@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @roman-cech.
 - 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning Spring, PHP and Cloud Services.
 - 📫 You can reach me on linkedin.com/in/roman-čech-43639619b/ .
 
 <!---
